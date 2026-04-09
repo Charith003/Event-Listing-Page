@@ -15,7 +15,7 @@ npm run dev
 |---|---|
 | **Event Detail Modal** | Click any card → full-screen popup with description, meta, tags, host |
 | **Embedded Video Player** | Click "Watch" / play button → YouTube embed auto-loads |
-| **Favourites Tab** | Save events with ♥ → "Favourites" filter shows saved events |
+| **Favourites Tab** | Save events with  → "Favourites" filter shows saved events |
 | **Star Ratings** | Per-event rating displayed in card + modal |
 | **Registered Count** | Attendance figures shown in modal meta grid |
 | **Tag chips** | Searchable topic tags in modal |
