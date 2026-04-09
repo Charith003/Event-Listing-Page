@@ -1,16 +1,15 @@
-# 🎬 LiveStream v2 — Live Event Streaming Platform
+#  LiveStream v2 — Live Event Streaming Platform
 
 Built with **Next.js 14 + Tailwind CSS**. Ocean-teal dark theme.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 npm install
 npm run dev
-# → http://localhost:3000
 ```
 
-## ✨ New in v2
+##  New in v2
 
 | Feature | Detail |
 |---|---|
@@ -25,7 +24,7 @@ npm run dev
 | **ESC to close** | Keyboard-accessible modal |
 | **Ocean palette** | `#012030` · `#13678A` · `#45C4B0` · `#9AEBA3` · `#DAFDBA` |
 
-## 📁 Structure
+##  Structure
 
 ```
 app/
@@ -41,7 +40,7 @@ data/
   events.js       ← 15 events with videoId, tags, rating, description
 ```
 
-## 🎨 Palette
+##  Palette
 
 | Swatch | Hex | Usage |
 |---|---|---|
