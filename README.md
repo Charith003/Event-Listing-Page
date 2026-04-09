@@ -1,4 +1,4 @@
-#  LiveStream v2 — Live Event Streaming Platform
+#  LiveStream — Live Event Streaming Platform
 
 Built with **Next.js 14 + Tailwind CSS**. Ocean-teal dark theme.
 A fully responsive Live Event Streaming Platform UI built with Next.js 14 + Tailwind CSS. Features event detail modals, embedded YouTube playback, real-time search & category filtering, favourites management, and an ocean-teal dark theme. 
